@@ -46,8 +46,6 @@ void bubble_sort_asc()
     print_array(a,n);
 }
 
-//Comment 1
-
 void bubble_sort_desc()
 {
     int n;
